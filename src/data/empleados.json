@@ -1,0 +1,38 @@
+[
+    {
+        "id" :"523540",
+        "nombre": "Brenda",
+        "apellido": "Esparza",
+        "salario": "24000",
+        "departamento": "Informática"
+    },
+    {
+        "id" :"523541",
+        "nombre": "Carolina",
+        "apellido": "Díaz",
+        "salario": "20000",
+        "departamento": "Marketing"
+    },
+    {
+        "id" :"523542",
+        "nombre": "José",
+        "apellido": "Barrones",
+        "salario": "28000",
+        "departamento": "Producción"
+    },
+    {
+        "id" :"523543",
+        "nombre": "Laura",
+        "apellido": "Mendoza",
+        "salario": "30000",
+        "departamento": "Finanzas"
+    },
+    {
+        "id" :"523544",
+        "nombre": "Mauricio",
+        "apellido": "Torrado",
+        "salario": "25000",
+        "departamento": "Recursos Humanos"
+    }
+]
+   
